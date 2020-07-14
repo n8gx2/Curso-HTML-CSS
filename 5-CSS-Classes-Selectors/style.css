@@ -1,3 +1,51 @@
-p{
-    color: red ;
+/* p{
+    color:black ;
+    font-size: 25px;
 }
+a{
+    font-size: 20px;
+}
+p.error{
+    color: red;
+}
+p.success{
+    color: green;
+}
+p.succes.feedback {
+    border: 4px dashed greenyellow;
+}
+div#content{
+    background: rgb(167, 158, 175);
+    padding: 20px;
+}
+a[href*="w3schools"]{
+   background-color: aquamarine; 
+   color: white;
+   text-decoration: none;
+   font-weight: bold;
+   text-transform: uppercase;
+}
+a[href$="Google"]{
+    background-color: red; 
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: capitalize;
+    border: 2px solid blue;
+ } */
+
+ div{
+     color: lightcoral;
+     border: 1px solid grey;
+     margin: 40px;
+     font-weight: bold;
+ }
+
+ div p{
+     border: inherit;
+     margin: inherit;
+     color: crimson;
+ }
+ p{
+     color: orange;
+ }
