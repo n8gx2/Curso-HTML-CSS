@@ -170,7 +170,7 @@ p::after{
     .banner .wellcome br{
         display: none;        
     }   
-    .banner .wellcome 2{
+    .banner .wellcome h2{
         font-size: 25px;
     }   
     .banner .wellcome span{
